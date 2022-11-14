@@ -9,7 +9,11 @@ import './style.css'
 // import './solid/04-no-segregation';
 // import './solid/04-segregation';
 // import './solid/05-dependency-a';
-import './solid/05-no-dependency-a';
+// import './solid/05-no-dependency-a';
+
+// import './design-patterns/singleton.js';
+// import './design-patterns/decorator.ts';
+import './design-patterns/observer';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
